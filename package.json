@@ -1,0 +1,10 @@
+{
+  "name": "redux-reaction",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "redux-create-reducer": "^1.1.1"
+  },
+  "scripts": {}
+}
